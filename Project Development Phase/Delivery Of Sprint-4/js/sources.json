@@ -1,0 +1,352 @@
+{"sources": [
+    {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)",
+        "num": 1
+    },
+    {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English",
+        "num": 2
+    },
+    {
+        "id": "ars-technica",
+        "name": "Ars Technica",
+        "num": 3
+    },
+    {
+        "id": "associated-press",
+        "name": "Associated Press",
+        "num": 4
+    },
+    {
+        "id": "bbc-news",
+        "name": "BBC News",
+        "num": 5
+    },
+    {
+        "id": "bbc-sport",
+        "name": "BBC Sport",
+        "num": 6
+    },
+    {
+        "id": "bild",
+        "name": "Bild",
+        "num": 7
+    },
+    {
+        "id": "bloomberg",
+        "name": "Bloomberg",
+        "num": 8
+    },
+    {
+        "id": "breitbart-news",
+        "name": "Breitbart News",
+        "num": 9
+    },
+    {
+        "id": "business-insider",
+        "name": "Business Insider",
+        "num": 10
+    },
+    {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)",
+        "num": 11
+    },
+    {
+        "id": "buzzfeed",
+        "name": "Buzzfeed",
+        "num": 12
+    },
+    {
+        "id": "cnbc",
+        "name": "CNBC",
+        "num": 13
+    },
+    {
+        "id": "cnn",
+        "name": "CNN",
+        "num": 14
+    },
+    {
+        "id": "daily-mail",
+        "name": "Daily Mail",
+        "num": 15
+    },
+    {
+        "id": "der-tagesspiegel",
+        "name": "Der Tagesspiegel",
+        "num": 16
+    },
+    {
+        "id": "die-zeit",
+        "name": "Die Zeit",
+        "num": 17
+    },
+    {
+        "id": "engadget",
+        "name": "Engadget",
+        "num": 18
+    },
+    {
+        "id": "entertainment-weekly",
+        "name": "Entertainment Weekly",
+        "num": 19
+    },
+    {
+        "id": "espn",
+        "name": "ESPN",
+        "num": 20
+    },
+    {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info",
+        "num": 21
+    },
+    {
+        "id": "financial-times",
+        "name": "Financial Times",
+        "num": 22
+    },
+    {
+        "id": "focus",
+        "name": "Focus",
+        "num": 23
+    },
+    {
+        "id": "football-italia",
+        "name": "Football Italia",
+        "num": 24
+    },
+    {
+        "id": "fortune",
+        "name": "Fortune",
+        "num": 25
+    },
+    {
+        "id": "four-four-two",
+        "name": "FourFourTwo",
+        "num": 26
+    },
+    {
+        "id": "fox-sports",
+        "name": "Fox Sports",
+        "num": 27
+    },
+    {
+        "id": "google-news",
+        "name": "Google News",
+        "num": 28
+    },
+    {
+        "id": "gruenderszene",
+        "name": "Gruenderszene",
+        "num": 29
+    },
+    {
+        "id": "hacker-news",
+        "name": "Hacker News",
+        "num": 30
+    },
+    {
+        "id": "handelsblatt",
+        "name": "Handelsblatt",
+        "num": 31
+    },
+    {
+        "id": "ign",
+        "name": "IGN",
+        "num": 32
+    },
+    {
+        "id": "independent",
+        "name": "Independent",
+        "num": 33
+    },
+    {
+        "id": "mashable",
+        "name": "Mashable",
+        "num": 34
+    },
+    {
+        "id": "metro",
+        "name": "Metro",
+        "num": 35
+    },
+    {
+        "id": "mirror",
+        "name": "Mirror",
+        "num": 36
+    },
+    {
+        "id": "mtv-news",
+        "name": "MTV News",
+        "num": 37
+    },
+    {
+        "id": "mtv-news-uk",
+        "name": "MTV News (UK)",
+        "num": 38
+    },
+    {
+        "id": "national-geographic",
+        "name": "National Geographic",
+        "num": 39
+    },
+    {
+        "id": "new-scientist",
+        "name": "New Scientist",
+        "num": 40
+    },
+    {
+        "id": "newsweek",
+        "name": "Newsweek",
+        "num": 41
+    },
+    {
+        "id": "new-york-magazine",
+        "name": "New York Magazine",
+        "num": 42
+    },
+    {
+        "id": "nfl-news",
+        "name": "NFL News",
+        "num": 43
+    },
+    {
+        "id": "polygon",
+        "name": "Polygon",
+        "num": 44
+    },
+    {
+        "id": "recode",
+        "name": "Recode",
+        "num": 45
+    },
+    {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all",
+        "num": 46
+    },
+    {
+        "id": "reuters",
+        "name": "Reuters",
+        "num": 47
+    },
+    {
+        "id": "spiegel-online",
+        "name": "Spiegel Online",
+        "num": 48
+    },
+    {
+        "id": "t3n",
+        "name": "T3n",
+        "num": 49
+    },
+    {
+        "id": "talksport",
+        "name": "TalkSport",
+        "num": 50
+    },
+    {
+        "id": "techcrunch",
+        "name": "TechCrunch",
+        "num": 51
+    },
+    {
+        "id": "techradar",
+        "name": "TechRadar",
+        "num": 52
+    },
+    {
+        "id": "the-economist",
+        "name": "The Economist",
+        "num": 53
+    },
+    {
+        "id": "the-guardian-au",
+        "name": "The Guardian (AU)",
+        "num": 54
+    },
+    {
+        "id": "the-guardian-uk",
+        "name": "The Guardian (UK)",
+        "num": 55
+    },
+    {
+        "id": "the-hindu",
+        "name": "The Hindu",
+        "num": 56
+    },
+    {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post",
+        "num": 57
+    },
+    {
+        "id": "the-lad-bible",
+        "name": "The Lad Bible",
+        "num": 58
+    },
+    {
+        "id": "the-new-york-times",
+        "name": "The New York Times",
+        "num": 59
+    },
+    {
+        "id": "the-next-web",
+        "name": "The Next Web",
+        "num": 60
+    },
+    {
+        "id": "the-sport-bible",
+        "name": "The Sport Bible",
+        "num": 61
+    },
+    {
+        "id": "the-telegraph",
+        "name": "The Telegraph",
+        "num": 62
+    },
+    {
+        "id": "the-times-of-india",
+        "name": "The Times of India",
+        "num": 63
+    },
+    {
+        "id": "the-verge",
+        "name": "The Verge",
+        "num": 64
+    },
+    {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal",
+        "num": 65
+    },
+    {
+        "id": "the-washington-post",
+        "name": "The Washington Post",
+        "num": 66
+    },
+    {
+        "id": "time",
+        "name": "Time",
+        "num": 67
+    },
+    {
+        "id": "usa-today",
+        "name": "USA Today",
+        "num": 68
+    },
+    {
+        "id": "wired-de",
+        "name": "Wired.de",
+        "num": 69
+    },
+    {
+        "id": "wirtschafts-woche",
+        "name": "Wirtschafts Woche",
+        "num": 70
+    }
+]}
