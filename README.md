@@ -15,8 +15,8 @@ TEAM MEMBERS:
   Title             Name
 |Team Leader   |    Pavithra R   |
 |Team Member 1 |    Praveena S   |
-|Team Member 2 |    Swetha S     |
-|Team Member 3 |    Reshema R    |
+|Team Member 2 |    Reshema R     |
+|Team Member 3 |    Swetha S    |
 
 REQUIRED SKILLS:
        
