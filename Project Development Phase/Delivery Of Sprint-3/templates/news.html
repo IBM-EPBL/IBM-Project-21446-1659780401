@@ -1,0 +1,48 @@
+{% extends 'layout.html' %}
+{% block header %}
+<header>
+    <nav class="top-nav teal darken-3">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a class="page-title">{{name}}</a>
+            </div>
+
+        </div>
+    </nav>
+</header>
+{% endblock %}
+
+
+{% block body %}
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12 l12">
+            <ul class="collapsible popout" data-collapsible="accordion">
+                {% for article in articles %}
+                <li>
+                    <div class="collapsible-header">{{article.title}}</div>
+                    <div class="collapsible-body">
+                        <div class="row">
+                            <div class="col s12 m6 l6">
+                                <img src="{{article.img}}" data-caption="{{article.title}}"
+                                     class="center responsive-img materialboxed"/>
+                            </div>
+                            <div class="col s12 m6 l6">
+                                <h5>{{article.title}}</h5>
+                                <blockquote>{{article.author}}</blockquote>
+                                <p class="flow-text">{{article.desc}}</p>
+                                <a href="{{article.url}}">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block script %}
+<script src="{{ url_for('static', filename='script.js')}}"></script>
+{% endblock %}
