@@ -7,7 +7,7 @@ Project Name  News Tracker Application
 
 Domain Cloud Application Development
 
-Team ID	  PNT2022TMID20100
+Team ID	  PNT2022TMID15525
 
 
 TEAM MEMBERS:
